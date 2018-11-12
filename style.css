@@ -1,0 +1,15 @@
+.main-content{
+  color:blue;
+  font-family:sans-serif;
+  border:black 2px solid;
+}
+a{
+  text-decoration:overline;
+}
+
+p{
+  columns:3;
+}
+.main-content>h1{
+  
+}
